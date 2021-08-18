@@ -1,5 +1,5 @@
 # Project Title
-Ceedit Card
+Credit Card
 
 ## Description
 Credit Card Animation Page where user can input their credit card details like Card Number, Card Name and Expiry Details with number formatting, validation, and automatic card-type detection.
