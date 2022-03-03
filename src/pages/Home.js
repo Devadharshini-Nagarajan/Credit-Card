@@ -200,7 +200,7 @@ function Home() {
             </div>
           </div>
           {/* card back */}
-          <div className="credit-img credit-back">
+          {/* <div className="credit-img credit-back">
             <div className="black-row"></div>
             <div className="cvv-div">
               <span>CVV</span>
@@ -215,7 +215,7 @@ function Home() {
                 />
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
         {/* Credit Card Form */}
         <div className="credit-form">
