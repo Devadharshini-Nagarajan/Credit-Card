@@ -219,6 +219,7 @@ function Home() {
         </div>
         {/* Credit Card Form */}
         <div className="credit-form">
+          <div style={{display:'flex',justifyContent: 'center'}}>{process.env.NODE_ENV}</div>
           <div className="form-group">
             <label>Card Number</label>
             <input
