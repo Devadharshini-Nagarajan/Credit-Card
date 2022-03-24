@@ -6,6 +6,13 @@ name: Node.js CI
 on:
   push:
     branches: [ main ]
+  
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Bump Version
+        default: v1.0.0
+        required: false
 
 jobs:
   build:
